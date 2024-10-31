@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MK-MultiLang-Bulk-Categories\n"
+"POT-Creation-Date: 2016-11-27 11:59+0100\n"
+"PO-Revision-Date: 2016-11-27 12:11+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../admin\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_html_e\n"
+"Last-Translator: \n"
+"Language: ca\n"
+"X-Poedit-SearchPath-0: admin-page.php\n"
+
+#: admin-page.php:15
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tens permisos suficients per accedir a aquesta pàgina."
+
+#: admin-page.php:19
+msgid "Polylang not installed. Please install it to use this plugin. :("
+msgstr ""
+"Polylang no està instal·lat. Si us plau instal·leu-lo per poder fer servir "
+"aquest plugin."
+
+#: admin-page.php:54
+msgid "Taxonomy can't be empty, please select one before filling the form."
+msgstr ""
+"La taxonomía no pot estar buida, si us plau selecciona una per poder omplir "
+"el formulari."
+
+#: admin-page.php:82
+msgid ""
+"Error. Category Name cannot be empty, it's the only field that must be "
+"filled."
+msgstr ""
+"Error. Els noms de categoría no poden estar buits, es el únic camp que es "
+"obligatori."
+
+#: admin-page.php:98 admin-page.php:114
+msgid "Error. Category name too short or too big"
+msgstr "Error. El nom de la categoría es massa curt o llarg."
+
+#: admin-page.php:107
+msgid "Error. Category slug too short or too big"
+msgstr "Error. El slug de la categoría és massa curt o llarg."
+
+#: admin-page.php:133
+msgid "Error. Category probably exists, if not, try again."
+msgstr ""
+"Error. La categoría probablement existeixi, si no és així, torna a intentar-"
+"ho."
+
+#: admin-page.php:158
+msgid "Saved successfully"
+msgstr "Guardat correctament"
+
+#: admin-page.php:207 admin-page.php:280
+msgid "Select first a Taxonomy"
+msgstr "Selecciona primer una Taxonomia"
+
+#: admin-page.php:218
+msgid ""
+"A tool to create multilanguage categories, easier. You can use custom "
+"taxonomies, product categories(woocommerce) and others."
+msgstr ""
+"Una eina per crear categories de diversos idiomes, més fàcil. Podeu "
+"utilitzar les taxonomies personalitzats, categories de productes "
+"(WooCommerce) i altres."
+
+#: admin-page.php:219
+msgid ""
+"Select first a Taxonomy, then you will be able to select a parent category, "
+"and then fill the form."
+msgstr ""
+"Selecciona primer una Taxonomía, i llavors podrás seleccionar una categoría "
+"pare i omplir el formulari."
+
+#: admin-page.php:220
+msgid ""
+"Please consider rating the plugin to know your opinion, and be free to use "
+"the support forum if you have any trouble."
+msgstr ""
+"Si us plau, considera valorar el plugin en el directori de Wordpress, i si "
+"tens algún dubte o problema, no dubtis en escriure en el fórum de suport."
+
+#: admin-page.php:230
+msgid "Taxonomy"
+msgstr "Taxonomia"
+
+#: admin-page.php:232
+msgid "Parent Category ID"
+msgstr "Categoría pare ID"
+
+#: admin-page.php:289
+msgid "Language"
+msgstr "Llenguatge"
+
+#: admin-page.php:290 admin-page.php:298
+msgid "Category Name"
+msgstr "Nom de Categoria"
+
+#: admin-page.php:291 admin-page.php:299
+msgid "Slug"
+msgstr "Slug"
+
+#: admin-page.php:292
+msgid "Description"
+msgstr "Descripció"
+
+#: admin-page.php:312
+msgid "Create Categories"
+msgstr "Crear Categories"
+
+msgid "A tool to create multilanguage categories, easier."
+msgstr "A tool to create multilanguage categories, easier."
+
+msgid ""
+"You can use custom taxonomies, product categories(woocommerce) and others. "
+"Only fill the Category Taxonomy. Some of them (not all):"
+msgstr ""
+"You can use custom taxonomies, product categories(woocommerce) and others. "
+"Only fill the Category Taxonomy. Some of them (not all):"
+
+msgid "Your Taxonomies List"
+msgstr "Your Taxonomies List"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "Click to add it to the form"
+msgstr "Click to add it to the form"
+
+msgid "Taxonomy (Default for woocommerce \"product_cat\")"
+msgstr "Taxonomy (Default for woocommerce \"product_cat\")"
+
+msgid "Parent category ID (Default no parent [id 0] )"
+msgstr "Parent category ID (Default no parent [id 0] )"
